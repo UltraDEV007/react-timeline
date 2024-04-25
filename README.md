@@ -18,8 +18,6 @@ import { Timeline, Bookmark } from 'react-vertical-timeline';
 See [demo](#demo) section
 ## Development
 
-Clone the repo : `git clone https://github.com/yeyus/react-vertical-timeline`.
-
 To get started with fresh history, do this:
 
 1. `cd react-vertical-timeline`
